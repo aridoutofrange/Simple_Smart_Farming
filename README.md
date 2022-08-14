@@ -25,3 +25,12 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <li> One Voltage Multimeter</li> 
 <li> One 5,5 Power Supply</li> 
 <li> One Diode</li> 
+
+## Wiring Diagram
+<img alt="Wiring Diagram" src="https://i.ibb.co/m8QYdzn/Simple-Smart-Farming-by-aridoutofrange.png" width="70%" height="70%">
+
+## Schematic Diagram
+<img alt="Schematic Diagram" src="https://i.ibb.co/KxJ9f95/Simple-Smart-Farming-1.png" width="70%" height="70%">
+
+## Simulation
+You can simulate the solar tracker [here](https://www.tinkercad.com/things/dSAxYd1RCJ5)
