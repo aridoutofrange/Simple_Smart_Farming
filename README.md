@@ -19,7 +19,7 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <li> One 5V buzzer</li>
 <li> Two 100Ω resistors</li> 
 <li> Five 1kΩ resistors</li> 
-<li> Three 16X2 I2C LCD</li> 
+<li> Three 16X2 I2C LCDs</li> 
 <li> One NPN BJT</li> 
 <li> One DC Motor</li> 
 <li> One Voltage Multimeter</li> 
