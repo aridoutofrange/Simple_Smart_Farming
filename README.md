@@ -33,4 +33,4 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <img alt="Schematic Diagram" src="https://i.ibb.co/KxJ9f95/Simple-Smart-Farming-1.png" width="70%" height="70%">
 
 ## Simulation
-You can simulate the solar tracker [here](https://www.tinkercad.com/things/dSAxYd1RCJ5)
+You can simulate the simple smart farming gadget [here](https://www.tinkercad.com/things/dSAxYd1RCJ5)
