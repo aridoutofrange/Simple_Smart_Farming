@@ -15,7 +15,7 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <li> One Force Sensor</li> 
 <li> One Green LED</li>
 <li> One Red LED</li> 
-<li> Jumper cables </li> 
+<li> Jumper Cables </li> 
 <li> One 5V buzzer</li>
 <li> Two 100Ω resistors</li> 
 <li> Five 1kΩ resistors</li> 
