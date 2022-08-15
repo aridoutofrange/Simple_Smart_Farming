@@ -128,7 +128,7 @@ void loop() {
     digitalWrite(ledGreen, HIGH);
     digitalWrite(ledYellow, LOW);
   } 
-  else if (temperature >35 && moisture_data_new < 20) {
+  else if (temperature > 35 && moisture_data_new < 20) {
     analogWrite(pinMotor, 50);
     lcd_3.setCursor(0, 1);
     lcd_3.print("              ");
