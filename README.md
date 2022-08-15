@@ -17,15 +17,15 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <li> One Red LED</li> 
 <li> One Yellow LED</li> 
 <li> Jumper Cables </li> 
-<li> One 5V buzzer</li>
-<li> Two 100Ω resistors</li> 
-<li> Five 1kΩ resistors</li> 
+<li> One 5V Buzzer</li>
+<li> Three 100Ω Resistors</li> 
+<li> Five 1kΩ Resistors</li> 
 <li> Three 16X2 I2C LCDs</li> 
 <li> One NPN BJT</li> 
 <li> One DC Motor</li> 
 <li> One Voltage Multimeter</li> 
 <li> One 5,5 Power Supply</li> 
-<li> One Diode</li> 
+<li> One 1N4007 Diode</li> 
 
 ## Wiring Diagram
 <img alt="Wiring Diagram" src="https://i.ibb.co/PQR65cn/Simple-Smart-Farming.png" width="70%" height="70%">
