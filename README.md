@@ -34,5 +34,10 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <img alt="Schematic Diagram" src="https://i.ibb.co/bbSyML4/Simple-Smart-Farming-2-1.png" width="70%" height="70%">
 <img alt="Schematic Diagram" src="https://i.ibb.co/7Cz9pvm/Simple-Smart-Farming-2-2.png" width="70%" height="70%">
 
+## Schematic Diagram
+<img alt="Ideal Condition" src="https://i.ibb.co/Fb7vQxh/Screenshot-503.png" width="70%" height="70%">
+<img alt="Acceptable Condition" src="https://i.ibb.co/NscDkmd/Screenshot-504.png" width="70%" height="70%">
+<img alt="Unacceptable Condition" src="https://i.ibb.co/cJ2k9CH/Screenshot-506.png" width="70%" height="70%">
+
 ## Simulation
 You can simulate the simple smart farming gadget [here](https://www.tinkercad.com/things/dSAxYd1RCJ5)
