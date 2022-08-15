@@ -35,10 +35,13 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <img alt="Schematic Diagram" src="https://i.ibb.co/7Cz9pvm/Simple-Smart-Farming-2-2.png" width="70%" height="70%">
 
 ## Screenshots
+
 ### Ideal Condition
 <img alt="Ideal Condition" src="https://i.ibb.co/Fb7vQxh/Screenshot-503.png" width="70%" height="70%">
+
 ### Acceptable Condition
 <img alt="Acceptable Condition" src="https://i.ibb.co/NscDkmd/Screenshot-504.png" width="70%" height="70%">
+
 ### Non-ideal Condition
 <img alt="Non-ideal Condition" src="https://i.ibb.co/cJ2k9CH/Screenshot-506.png" width="70%" height="70%">
 
