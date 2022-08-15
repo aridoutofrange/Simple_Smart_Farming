@@ -43,7 +43,7 @@ Simple yet adjustable smart farming gadget that can keep your plants to stay in 
 <img alt="Acceptable Condition" src="https://i.ibb.co/NscDkmd/Screenshot-504.png" width="70%" height="70%">
 
 ### Non-ideal Condition
-<img alt="Non-ideal Condition" src="https://i.ibb.co/cJ2k9CH/Screenshot-506.png" width="70%" height="70%">
+<img alt="Non-ideal Condition" src="https://i.ibb.co/dbWJW2T/Screenshot-547.png" width="70%" height="70%">
 
 ## Simulation
 You can simulate the simple smart farming gadget [here](https://www.tinkercad.com/things/dSAxYd1RCJ5)
